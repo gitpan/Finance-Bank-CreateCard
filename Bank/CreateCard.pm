@@ -73,7 +73,7 @@ sub get_basic_credentials {
 package Finance::Bank::CreateCard;
 use Carp;
 use HTML::TreeBuilder;
-our $VERSION = "1.0";
+our $VERSION = "1.0.1";
 our $BASEURL = "https://www.createcard.co.uk";
 
 our $ua = new Finance::Bank::CreateCard::WebClient;
