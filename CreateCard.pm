@@ -1,7 +1,7 @@
 #
 # Finace::Bank::CreateCard
 #
-# Version : 1.0
+# Version : 1.03
 # Date    : Fri Mar 14 13:05:33 GMT 2003 
 # By      : Robert J. McKay <robert@mckay.com>
 # Desc    : This module provides an interface to the createcard.co.uk 
